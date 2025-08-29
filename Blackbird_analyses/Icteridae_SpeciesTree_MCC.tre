@@ -1,0 +1,219 @@
+#NEXUS
+[R-package APE, Wed Jan 22 13:58:28 2025]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 103;
+	TAXLABELS
+		Icterus_mesomelas
+		Icterus_graceannae
+		Icterus_pectoralis
+		Icterus_croconotus
+		Icterus_icterus
+		Icterus_jamacaii
+		Icterus_prosthemelas
+		Icterus_spurius
+		Icterus_cucullatus
+		Icterus_melanopsis
+		Icterus_northropi
+		Icterus_laudabilis
+		Icterus_dominicensis
+		Icterus_cayanensis
+		Icterus_auricapillus
+		Icterus_portoricensis
+		Icterus_oberi
+		Icterus_bonana
+		Icterus_wagleri
+		Icterus_maculialatus
+		Icterus_parisorum
+		Icterus_graduacauda
+		Icterus_chrysater
+		Icterus_galbula
+		Icterus_abeillei
+		Icterus_bullockii
+		Icterus_pustulatus
+		Icterus_nigrogularis
+		Icterus_gularis
+		Icterus_leucopteryx
+		Icterus_auratus
+		Agelaius_tricolor
+		Agelaius_assimilis
+		Agelaius_phoeniceus
+		Agelaius_xanthomus
+		Agelaius_humeralis
+		Nesopsar_nigerrimus
+		Quiscalus_quiscula
+		Quiscalus_nicaraguensis
+		Quiscalus_lugubris
+		Quiscalus_major
+		Quiscalus_mexicanus
+		Quiscalus_palustris
+		Quiscalus_niger
+		Euphagus_carolinus
+		Euphagus_cyanocephalus
+		Ptiloxena_atroviolacea
+		Dives_warczewiczi
+		Dives_dives
+		Macroagelaius_subalaris
+		Macroagelaius_imthurni
+		Lampropsar_tanagrinus
+		Hypopyrrhus_pyrohypogaster
+		Gymnomystax_mexicanus
+		Amblyramphus_holosericeus
+		Curaeus_curaeus
+		Gnorimopsar_chopi
+		Agelaioides_badius
+		Oreopsar_bolivianus
+		Pseudoleistes_virescens
+		Pseudoleistes_guirahuro
+		Xanthopsar_flavus
+		Chrysomus_icterocephalus
+		Chrysomus_ruficapillus
+		Agelasticus_thilius
+		Agelasticus_xanthophthalmus
+		Agelasticus_cyanopus
+		Anumara_forbesi
+		Molothrus_rufoaxillaris
+		Molothrus_oryzivorus
+		Molothrus_bonariensis
+		Molothrus_aeneus
+		Molothrus_ater
+		Cassiculus_melanicterus
+		Psarocolius_wagleri
+		Psarocolius_atrovirens
+		Psarocolius_angustifrons
+		Psarocolius_decumanus
+		Psarocolius_bifasciatus
+		Psarocolius_montezuma
+		Psarocolius_guatimozinus
+		Psarocolius_cassini
+		Psarocolius_viridis
+		Cacicus_solitarius
+		Cacicus_uropygialis
+		Cacicus_cela
+		Cacicus_haemorrhous
+		Cacicus_oseryi
+		Cacicus_latirostris
+		Cacicus_chrysonotus
+		Cacicus_koepckeae
+		Cacicus_sclateri
+		Cacicus_chrysopterus
+		Amblycercus_holosericeus
+		Xanthocephalus_xanthocephalus
+		Dolichonyx_oryzivorus
+		Sturnella_magna
+		Sturnella_neglecta
+		Sturnella_superciliaris
+		Sturnella_militaris
+		Sturnella_loyca
+		Sturnella_defilippii
+		Sturnella_bellicosa
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Icterus_mesomelas,
+		2	Icterus_graceannae,
+		3	Icterus_pectoralis,
+		4	Icterus_croconotus,
+		5	Icterus_icterus,
+		6	Icterus_jamacaii,
+		7	Icterus_prosthemelas,
+		8	Icterus_spurius,
+		9	Icterus_cucullatus,
+		10	Icterus_melanopsis,
+		11	Icterus_northropi,
+		12	Icterus_laudabilis,
+		13	Icterus_dominicensis,
+		14	Icterus_cayanensis,
+		15	Icterus_auricapillus,
+		16	Icterus_portoricensis,
+		17	Icterus_oberi,
+		18	Icterus_bonana,
+		19	Icterus_wagleri,
+		20	Icterus_maculialatus,
+		21	Icterus_parisorum,
+		22	Icterus_graduacauda,
+		23	Icterus_chrysater,
+		24	Icterus_galbula,
+		25	Icterus_abeillei,
+		26	Icterus_bullockii,
+		27	Icterus_pustulatus,
+		28	Icterus_nigrogularis,
+		29	Icterus_gularis,
+		30	Icterus_leucopteryx,
+		31	Icterus_auratus,
+		32	Agelaius_tricolor,
+		33	Agelaius_assimilis,
+		34	Agelaius_phoeniceus,
+		35	Agelaius_xanthomus,
+		36	Agelaius_humeralis,
+		37	Nesopsar_nigerrimus,
+		38	Quiscalus_quiscula,
+		39	Quiscalus_nicaraguensis,
+		40	Quiscalus_lugubris,
+		41	Quiscalus_major,
+		42	Quiscalus_mexicanus,
+		43	Quiscalus_palustris,
+		44	Quiscalus_niger,
+		45	Euphagus_carolinus,
+		46	Euphagus_cyanocephalus,
+		47	Ptiloxena_atroviolacea,
+		48	Dives_warczewiczi,
+		49	Dives_dives,
+		50	Macroagelaius_subalaris,
+		51	Macroagelaius_imthurni,
+		52	Lampropsar_tanagrinus,
+		53	Hypopyrrhus_pyrohypogaster,
+		54	Gymnomystax_mexicanus,
+		55	Amblyramphus_holosericeus,
+		56	Curaeus_curaeus,
+		57	Gnorimopsar_chopi,
+		58	Agelaioides_badius,
+		59	Oreopsar_bolivianus,
+		60	Pseudoleistes_virescens,
+		61	Pseudoleistes_guirahuro,
+		62	Xanthopsar_flavus,
+		63	Chrysomus_icterocephalus,
+		64	Chrysomus_ruficapillus,
+		65	Agelasticus_thilius,
+		66	Agelasticus_xanthophthalmus,
+		67	Agelasticus_cyanopus,
+		68	Anumara_forbesi,
+		69	Molothrus_rufoaxillaris,
+		70	Molothrus_oryzivorus,
+		71	Molothrus_bonariensis,
+		72	Molothrus_aeneus,
+		73	Molothrus_ater,
+		74	Cassiculus_melanicterus,
+		75	Psarocolius_wagleri,
+		76	Psarocolius_atrovirens,
+		77	Psarocolius_angustifrons,
+		78	Psarocolius_decumanus,
+		79	Psarocolius_bifasciatus,
+		80	Psarocolius_montezuma,
+		81	Psarocolius_guatimozinus,
+		82	Psarocolius_cassini,
+		83	Psarocolius_viridis,
+		84	Cacicus_solitarius,
+		85	Cacicus_uropygialis,
+		86	Cacicus_cela,
+		87	Cacicus_haemorrhous,
+		88	Cacicus_oseryi,
+		89	Cacicus_latirostris,
+		90	Cacicus_chrysonotus,
+		91	Cacicus_koepckeae,
+		92	Cacicus_sclateri,
+		93	Cacicus_chrysopterus,
+		94	Amblycercus_holosericeus,
+		95	Xanthocephalus_xanthocephalus,
+		96	Dolichonyx_oryzivorus,
+		97	Sturnella_magna,
+		98	Sturnella_neglecta,
+		99	Sturnella_superciliaris,
+		100	Sturnella_militaris,
+		101	Sturnella_loyca,
+		102	Sturnella_defilippii,
+		103	Sturnella_bellicosa
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((60:0.7200154627,61:0.7200154627):0.5314014482,62:1.251416911):1.72661275,(63:0.6914943578,64:0.6914943578):2.286535303):0.4146173777,(58:2.51979783,59:2.51979783):0.8728492091):0.07093966048,((66:0.1564007254,67:0.1564007254):2.592502738,65:2.748903464):0.714683236):0.1534709453,57:3.617057645):0.2371322305,68:3.854189875):0.3238329842,(55:3.375382175,56:3.375382175):0.8026406843):0.2187257203,(((53:3.497246642,54:3.497246642):0.403599111,52:3.900845753):0.2973045613,(50:1.209767422,51:1.209767422):2.988382892):0.1985982657):0.733711514,((((((((41:0.3238328568,42:0.3238328568):0.4132810926,43:0.7371139494):0.07755634175,44:0.8146702912):0.3609280256,(39:0.9807838052,40:0.9807838052):0.1948145116):0.5698631333,38:1.74546145):1.304845214,(45:2.086930382,46:2.086930382):0.9633762819):0.3105029518,47:3.360809615):0.971146142,(48:1.985419937,49:1.985419937):2.34653582):0.7985043364):0.3123012408,((((72:0.8782025167,73:0.8782025167):0.1341766359,71:1.012379153):0.9760374053,70:1.988416558):0.6380607072,69:2.626477265):2.81628407):0.2221077948,((((33:0.6429391817,34:0.6429391817):2.129050193,32:2.771989375):0.8661073669,(35:0.4271872514,36:0.4271872514):3.21090949):1.664569928,37:5.30266667):0.3622024599):2.475506538,((((((((((12:1.400364613,13:1.400364613):0.1948675479,(14:0.9048907564,15:0.9048907564):0.6903414044):0.0949205866,((18:1.4424018,16:1.4424018):0.06025943209,17:1.502661232):0.1874915155):0.3060484794,(10:0.1844851236,11:0.1844851236):1.811716103):0.5923718694,(7:2.146861622,8:2.146861622):0.4417114747):0.1468491924,9:2.735422289):0.7961358178,19:3.531558106):0.5219811911,20:4.053539298):0.3130133773,((((5:1.007099256,6:1.007099256):0.3918331362,4:1.398932392):1.672220459,(2:2.363267122,3:2.363267122):0.7078857296):0.3305299033,1:3.401682755):0.9648699203):0.9992825597,((((((28:0.8805028082,29:0.8805028082):0.5458991435,31:1.426401952):0.1334504455,30:1.559852397):0.07805509217,(26:1.146865608,27:1.146865608):0.4910418811):0.1021565079,(24:0.08838944555,25:0.08838944555):1.651674552):1.800520898,((22:0.4998072329,23:0.4998072329):2.245678655,21:2.745485888):0.7950990074):1.82525034):2.774540433):0.4587947006,(((((((((88:1.149042405,89:1.149042405):0.2509576416,87:1.400000047):1.941375161,90:3.341375208):0.391827462,(85:2.933443265,86:2.933443265):0.7997594049):0.3368565963,((91:0.5838919692,92:0.5838919692):1.647340517,93:2.231232486):1.83882678):0.2436620789,84:4.313721345):0.2717793742,((((((81:0.1632993487,82:0.1632993487):0.146056449,80:0.3093557978):0.1792554888,79:0.4886112865):0.08784802338,83:0.5764593099):1.05880459,78:1.6352639):1.258081333,((76:1.266928896,77:1.266928896):0.4769332823,75:1.743862179):1.149483055):1.692155486):0.4607834425,74:5.046284162):2.902738284,94:7.949022445):0.6501479228):0.8193569302,((((((99:1.000465279,100:1.000465279):1.633853598,103:2.634318877):0.3200321625,(101:0.7726583234,102:0.7726583234):2.181692716):3.642409532,(97:1.864057502,98:1.864057502):4.732703069):1.80442742,96:8.401187991):0.2913009703,95:8.692488961):0.7260383374);
+END;
